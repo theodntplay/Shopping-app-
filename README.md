@@ -1,2 +1,2 @@
-# Shopping-app-
+# Shopping-app
 E-commerce app 
